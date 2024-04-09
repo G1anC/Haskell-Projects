@@ -1,0 +1,7 @@
+usage:
+./xpmImg <file>
+
+	(takes the output of imageCompressor as input file,
+	 outputs an XPM Image)
+
+ERROR: gets a single file as argument.
